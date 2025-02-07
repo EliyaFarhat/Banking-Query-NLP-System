@@ -1,0 +1,69 @@
+% Enter the names of your group members below.
+% If you only have 2 group members, leave the last space blank
+%
+%%%%%
+%%%%% NAME: Eliya Farhat
+%%%%% NAME: Manar Elbeshbishy
+%%%%% NAME: Tahir Mahmood
+%
+% Add your test queries below, along with a description of the test you are performing.
+% The format can look as follows
+% 
+% %%%%% QUERY 2
+% %% Description: Checks whether a british woman has a small account in a local bank
+% what([a, british, woman, with, a small, account, in, a, canadian, bank], A).
+%
+
+%%%%%% QUERY 1
+%% Description: Checks whether there is a canadian with a medium account
+%  what([a, local, person, with, a, medium, account], X).
+
+
+
+%%%%%% QUERY 2
+%% Description: Checks whether an american man has a medium account in a canadian bank
+%  what([an, american, man, with, a, medium, account, in, a, canadian, bank], X).
+
+
+
+%%%%%% QUERY 3
+%% Description: Checks whether there is/are women that have a recently opened account
+%  what([a, woman, with, a, recent, account], X).
+
+
+%%%%%% QUERY 4
+%% Description: Lists any foreign person (someone who does not live in Canada)
+%  what([any, foreign, person], X).
+
+
+%%%%%% QUERY 5
+%% Description: Lists the people with an account with CapitalOne
+%  what([any, person, with, an, account, with, capitalOne], X).
+
+
+%%%%%% QUERY 6
+%% Description: Lists the british people with an old bank account 
+%  what([any, british, person, with, an, old, account], X).
+
+
+%%%%%% QUERY 7
+%% Description: Returns the oldest account in rbc if a unique old account exists
+%  what([the, oldest, account, in, rbc], X).
+
+
+%%%%%% QUERY 8
+%% Description: Lists any local account (canadian account in any bank) that has a balance between 300 and 3000 
+%  what([any, local, account, with, a, balance, between, 300, and, 3000], X).
+
+
+%%%%%% QUERY 9
+%% Description: Returns the account with the largest balance if a unique largest balance exists
+%  what([the, largest, local, account], X).
+
+
+%%%%%% QUERY 10
+%% Description: Lists any account in cibc that has a balance between 300 and 3000
+%  what([any, account, in, cibc, with, a, balance, between, 300, and, 3000], X).
+
+
+
